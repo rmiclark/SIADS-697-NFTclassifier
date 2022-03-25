@@ -1,0 +1,1 @@
+# SIADS-697-NFTclassifier
